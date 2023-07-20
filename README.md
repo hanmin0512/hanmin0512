@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**hanmin0512/hanmin0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 네트워크 해킹의 기본 원리가 궁금하시다면 저에게 물어보세요 ...
 - 📫 저에게 연락하는 방법은 hanmin9981@naver.com 으로 메일을 주세요.: ...
 
--->
