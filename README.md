@@ -29,7 +29,7 @@
 
 <br>
 
-## git status
+## Git status
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanmin0512&show_icons=true&theme=radical)
