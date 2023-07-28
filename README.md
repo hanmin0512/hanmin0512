@@ -25,7 +25,7 @@
 <br>
 
 ## Hanium Project
-- batch file : <a href = ""> SRV-001 </a> SNMP Protocols Community String settings
+- batch file : <a href = ""> SRV-001 </a> SNMP Protocols Community String settings vulnerability
 ## My Labtop
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/ASUS-000000?style=for-the-badge&logo=ASUS%2B%2B&logoColor=white">
 
