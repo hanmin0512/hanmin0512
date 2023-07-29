@@ -25,7 +25,12 @@
 <br>
 
 ## Hanium Project
-- batch file : <a href = ""> SRV-001 </a> SNMP Protocols Community String settings vulnerability
+- SNMP Protocols Community String 설정 미흡 : <a href = "https://github.com/hanmin0512/batch_SRV-001"> SRV-001 </a>
+- SNMP 접근 통제 미설정 점검 : <a href = "https://github.com/hanmin0512/batch_SRV-003"> SRV-003 </a>
+- 불필요한 SMTP 서비스 실행 검사 : <a href = "https://github.com/hanmin0512/batch_SRV-004"> SRV-004 </a>
+
+
+
 ## My Labtop
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/ASUS-000000?style=for-the-badge&logo=ASUS%2B%2B&logoColor=white">
 
