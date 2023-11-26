@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 2023 한이음 [전자금융기반 중소금융기업의 취약점 자가 진단조치 서비스 프로젝트] 수료
+- Sk Shieldus Rookies 교육생
 
 ## Techniques used
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
