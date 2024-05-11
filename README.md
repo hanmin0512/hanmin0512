@@ -1,6 +1,13 @@
 ### Hi there 👋
+
+## 교육 수료 과정
 - 2023 한이음 [전자금융기반 중소금융기업의 취약점 자가 진단조치 서비스 프로젝트] 수료
-- Sk Shieldus Rookies 교육생
+- Sk Shieldus Rookies 17기 수료
+
+## 학력
+- 동국대학교 WISE캠퍼스 컴퓨터공학전공
+
+
 
 ## Techniques used
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -30,12 +37,6 @@
 - SNMP 접근 통제 미설정 점검 : <a href = "https://github.com/hanmin0512/batch_SRV-003"> SRV-003 </a>
 - 불필요한 SMTP 서비스 실행 검사 : <a href = "https://github.com/hanmin0512/batch_SRV-004"> SRV-004 </a>
 
-
-
-## My Labtop
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/ASUS-000000?style=for-the-badge&logo=ASUS%2B%2B&logoColor=white">
-
-<br>
 
 ## Network Attack
 - <a href= "https://github.com/hanmin0512/Concept_ARP"> ARP 개념 </a>
