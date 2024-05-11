@@ -32,6 +32,9 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <br>
 
+## 시나리오 모의해킹 (Rookies)
+- 증권사 시나리오 모의해킹 프로젝트 : 
+
 ## Hanium Project
 - SNMP Protocols Community String 설정 미흡 : <a href = "https://github.com/hanmin0512/batch_SRV-001"> SRV-001 </a>
 - SNMP 접근 통제 미설정 점검 : <a href = "https://github.com/hanmin0512/batch_SRV-003"> SRV-003 </a>
