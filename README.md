@@ -33,7 +33,12 @@
 <br>
 
 ## 시나리오 모의해킹 (Rookies)
-- 증권사 시나리오 모의해킹 프로젝트 : 
+> 가상으로 루키증권사의 증권앱을 제작하여 시나리오 모의해킹 수행.
+- 시스템 침투를 통한 랜섬웨어 감염 시나리오 (SSTI, Randsomeware) 
+- 악성 게시글을 통한 금전 탈취 시나리오 (XSS, CSRF)
+- 업데이트 파일을 가장한 악성 앱 배포를 통한 모바일 탈취 시나리오 (SQL Injection, 악성코드 배포)
+- 클라우드 탈취를 통한 코인채굴 시나리오
+- 증권사 시나리오 모의해킹 프로젝트 :
 
 ## Hanium Project
 - SNMP Protocols Community String 설정 미흡 : <a href = "https://github.com/hanmin0512/batch_SRV-001"> SRV-001 </a>
