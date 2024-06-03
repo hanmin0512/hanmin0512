@@ -38,6 +38,24 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <br>
 
+## AWS Cloud 구성
+
+- AWS EBS 구성 하기 <a href = "https://hanmin0512.github.io/cloud/AWS_EBS_Guide/"> EBS 구성 보러가기 </a>
+
+- AWS Lambda 구성하기 <a href = "https://hanmin0512.github.io/cloud/AWS_Lambda_guide/"> Lambda 구성 보러가기 </a>
+
+- AWS Load Balancer 구성 하기 <a href = "https://hanmin0512.github.io/cloud/AWS_Load_Balancer/"> Load Balancer 구성 보러가기 </a>
+
+
+- AWS VPC 내부망, 외부망 구성 하기 <a href = "https://hanmin0512.github.io/cloud/VPC_guide/"> AWS VPC 내부망, 외부망 구성 보러가기 </a>
+
+- AWS EndPoint 구성 하기  <a href = "https://hanmin0512.github.io/cloud/aws_EndPoint/"> AWS EndPoint 구성 보러가기 </a>
+
+- AWS RDS 구성 하기 <a href = "https://hanmin0512.github.io/cloud/aws_RDS_guide/"> AWS RDS 구성 보러가기 </a>
+
+- AWS S3 정적 웹 호스팅 구성 하기 <a href = "https://hanmin0512.github.io/cloud/aws_s3_guide/"> AWS S3 정적 웹 호스팅 구성 보러가기 </a>
+
+<br>
 ## 시나리오 모의해킹 [Rookies 최종 프로젝트]
 > 가상으로 루키증권사의 증권앱을 제작하여 시나리오 모의해킹 수행.
 - 시스템 침투를 통한 랜섬웨어 감염 시나리오 (SSTI, Ransomware) 
