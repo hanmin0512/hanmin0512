@@ -8,11 +8,6 @@
 ## 학력
 - 동국대학교 WISE캠퍼스 컴퓨터공학전공
 
-## 웹 개발 프로젝트
-
-- Django Framework를 활용하여 블로그 개발 : <a href = "https://hanmin0512.github.io/webproject/djangoBlog/"> Django 블로그 </a>
-- JSP로 만든 스터디 룸 예약 웹 서비스 개발 : <a href ="https://hanmin0512.github.io/webproject/JSPDB/"> 스터디룸 예약 서비스 </a>
-- 시나리오 모의해킹을 위한 증권 웹 서비스 개발 : <a href = "https://hanmin0512.github.io/webproject/rookiestock/"> 루키증권 웹 서비스 </a>
 
 
 ## Techniques used
@@ -56,6 +51,14 @@
 - AWS S3 정적 웹 호스팅 구성 하기 <a href = "https://hanmin0512.github.io/cloud/aws_s3_guide/"> AWS S3 정적 웹 호스팅 구성 보러가기 </a>
 
 <br>
+
+## 웹 개발 프로젝트
+
+- Django Framework를 활용하여 블로그 개발 : <a href = "https://hanmin0512.github.io/webproject/djangoBlog/"> Django 블로그 </a>
+- JSP로 만든 스터디 룸 예약 웹 서비스 개발 : <a href ="https://hanmin0512.github.io/webproject/JSPDB/"> 스터디룸 예약 서비스 </a>
+- 시나리오 모의해킹을 위한 증권 웹 서비스 개발 : <a href = "https://hanmin0512.github.io/webproject/rookiestock/"> 루키증권 웹 서비스 </a>
+
+
 ## 시나리오 모의해킹 [Rookies 최종 프로젝트]
 > 가상으로 루키증권사의 증권앱을 제작하여 시나리오 모의해킹 수행.
 - 시스템 침투를 통한 랜섬웨어 감염 시나리오 (SSTI, Ransomware) 
