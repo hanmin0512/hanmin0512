@@ -35,8 +35,8 @@
 
 ## Reversing
 
-- 리버싱 이론 : <a href = ""> 리버싱 이론 보러가기 </a>
-- IDA 기본 기능 : <a href = ""> IDA 기능 보러가기 </a>
+- 리버싱 이론 : <a href = "https://github.com/hanmin0512/Theory_reversing"> 리버싱 이론 보러가기 </a>
+- IDA 기본 기능 : <a href = "https://github.com/hanmin0512/Theory_reversing/blob/main/IDA_function.md"> IDA 기능 보러가기 </a>
 - Dreamhack 리버싱 문제0: <a href = "https://github.com/hanmin0512/DreamHack_rev-basic-0_Writeup"> rev-basic-0 Writeup 보러가기 </a>
 - Dreamhack 리버싱 문제1: <a href = "https://github.com/hanmin0512/DreamHack_rev-basic-1_Writeup"> rev-basic-1 Writeup 보러가기 </a>
 - Dreamhack 리버싱 문제2: <a href = "https://github.com/hanmin0512/DreamHack_rev-basic-2_Writeup"> rev-basic-2 Writeup 보러가기 </a>
