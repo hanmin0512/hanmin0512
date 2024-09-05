@@ -33,6 +33,10 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <br>
 
+## C++ 토이 프로젝트
+- 미니 DBMS : <a href= "https://github.com/hanmin0512/mini_DBMS_cpp"> DBMS 토이프로젝트 보러가기 </a>
+
+
 ## Reversing
 
 - 리버싱 이론 : <a href = "https://github.com/hanmin0512/Theory_reversing"> 리버싱 이론 보러가기 </a>
