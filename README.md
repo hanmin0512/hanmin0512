@@ -12,7 +12,7 @@
 # 활동
 
 ## Find The Gap Bug Bounty
-- FVE Code: FVE-2025-baea-72432
+- FVE-2025-baea-72432
 - FVE-2026-baea-75111
 
 ## 시나리오 모의해킹 [Rookies 최종 프로젝트]
